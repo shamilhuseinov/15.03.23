@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ClassWork"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "15.03.2023"
+	}
+}
